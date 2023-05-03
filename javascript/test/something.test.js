@@ -6,7 +6,7 @@ describe("Test something", () => {
     console.log(Something)
     const something = new Something()
 
-    // Then\
+    // Then
     expect(something.do()).toBe(true)
   })
 })
